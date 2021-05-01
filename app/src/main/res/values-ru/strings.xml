@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Голосовой помощник</string>
+    <string name="question_field_hint">Задайте вопрос</string>
+    <string name="send_button_text">Отправить</string>
+    <string name="question_hello">привет</string>
+    <string name="answer_hello">Привет!</string>
+    <string name="question_hay">как дела?</string>
+    <string name="answer_hay">Неплохо</string>
+    <string name="question_wayd">чем занимаешься?</string>
+    <string name="answer_wayd">Отвечаю на вопросы</string>
+    <string name="answer_def">Пожалуйста, введите верный запрос!</string>
+    <string name="question_day">какой сегодня день?</string>
+    <string name="question_hour">который час?</string>
+    <string name="question_wday">какой сегодня день недели?</string>
+    <string name="question_daysto">сколько дней до</string>
+    <string name="wday_mon">Понедельник</string>
+    <string name="wday_wed">Среда</string>
+    <string name="wday_thu">Четверг</string>
+    <string name="wday_fri">Пятница</string>
+    <string name="wday_sun">Воскресенье</string>
+    <string name="wday_tue">Вторник</string>
+    <string name="wday_sat">Суббота</string>
+    <string name="question_weather_city">погода в городе</string>
+    <string name="answer_number">число</string>
+    <string name="question_buck">текстовый формат числа</string>
+    <string name="question_recipe">рецепт блюда</string>
+</resources>

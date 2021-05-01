@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Voice Assistant</string>
+    <string name="question_field_hint">Ask a question</string>
+    <string name="send_button_text">Send</string>
+    <string name="question_hello">hello</string>
+    <string name="answer_hello">Hello!</string>
+    <string name="question_hay">how are you?</string>
+    <string name="answer_hay">Not bad</string>
+    <string name="question_wayd">what are you doing?</string>
+    <string name="answer_wayd">I am answering your question</string>
+    <string name="answer_def">I do not understand!</string>
+    <string name="question_day">what day is it today?</string>
+    <string name="question_hour">what time is it?</string>
+    <string name="question_wday">what day of the week is it today?</string>
+    <string name="question_daysto">days to</string>
+    <string name="wday_mon">Monday</string>
+    <string name="wday_tue">Tuesday</string>
+    <string name="wday_wed">Wednesday</string>
+    <string name="wday_thu">Thursday</string>
+    <string name="wday_fri">Friday</string>
+    <string name="wday_sat">Saturday</string>
+    <string name="wday_sun">Sunday</string>
+    <string name="question_weather_city">weather in the city</string>
+    <string name="answer_number">Number is</string>
+    <string name="question_buck">alphabetic format of number</string>
+    <string name="question_recipe">recipe</string>
+</resources>
